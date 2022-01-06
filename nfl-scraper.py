@@ -1,10 +1,10 @@
 
 
-#date='20210117'
-#away_team='TB'
-#away_team_mascot='Buccaneers'
-#home_team='NO'
-#home_team_mascot='Saints'
+#date='20220102'
+#away_team='ATL'
+#away_team_mascot='Falcons'
+#home_team='BUF'
+#home_team_mascot='Bills'
 
 def get_nfl_score(date, home_team, away_team, home_team_mascot, away_team_mascot):
     import pandas as pd
